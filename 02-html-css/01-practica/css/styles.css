@@ -1,0 +1,17 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	display: flex;
+	justify-content: space-between;
+	flex-direction:row;
+	padding-left:20px;
+	padding-right: 20px;
+	background-color: #FFF059;
+}
+
+section, footer {
+	text-align: center;
+}
